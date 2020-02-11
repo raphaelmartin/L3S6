@@ -1,0 +1,30 @@
+- Anthropologie politique
+	- [Fiches SCS](anthropolitique/chinascs1.md)
+- Initiation à la culture vidéoludique
+	- [icv1](jeuxvideo/icv1.md)
+	- [icv2](jeuxvideo/icv2.md)
+- Initiation à la recherche en SIC
+	- [initrech](initSIC/initrech.md)
+- Durkheim et Le Suicide
+	- [Fiche Suicide](durkheim/fichesuicide.md)
+- Théorie de l'événement d'actualité
+	- [Thea1](theoEvnmt/thea1.md)
+- Analyse des discours médiatique
+	- [Adm1](analyseDM/adm1.md)
+- Représenter l'événement historique
+	- [Reh1](reh/reh1.md)
+	- [Reh2](reh/reh2.md)
+	- [Reh3](reh/reh3.md)
+	- [Reh4](reh/reh4.md)
+- Sémiologie de la com
+	- [Semio](semio/sem1.md)
+- Terrain Stains
+	- [Stains0](stains/stains0.md)
+	- [Stains0bis](stains/stains0bis.md)
+	- [Stains1](stains/stains1.md)
+	- [ficheMauger](stains/ficheMauger.md)
+- Socio des massmédias
+	- [Socio](socio/soc1.md)
+- Selfie
+	- [Selfie1](selfie/selfie1.md)
+	- [Selfie2](selfie/selfie2.md)
