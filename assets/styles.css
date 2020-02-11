@@ -225,7 +225,7 @@ section.cover .cover-main>p:last-child a:last-child:hover {
 }
 
 .anchor::before {
-  content: '\1F449';
+  content: '\270D';
   position: absolute;
   top: 0;
   left: -1.25em;

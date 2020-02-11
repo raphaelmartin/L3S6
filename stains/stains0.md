@@ -1,5 +1,7 @@
 # Lectures pré-enquête
+
 ## A lire
+
 1. RAIBAUD, "La ville durable creuse les inégalités"
 2. Démographie INSEE
 3. Etude d'impact "Zac de Tartres Sud"

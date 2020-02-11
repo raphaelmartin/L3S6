@@ -1,3 +1,1 @@
-# Socio
-
-lalala
+# mais kézako ké la socio
